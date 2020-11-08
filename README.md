@@ -86,9 +86,9 @@ Program:
 ```
 
 #### 参考资料
-[Create C Program with Dynamic Library using Command Line in Mac OS X](https://www.zealfortechnology.com/2013/09/create-c-program-dynamic-library-command-line-mac-os-x.html)
-[Hooking C Functions at Runtime](http://thomasfinch.me/blog/2015/07/24/Hooking-C-Functions-At-Runtime.html)
-[Simple code injection using DYLD_INSERT_LIBRARIES](https://blog.timac.org/2012/1218-simple-code-injection-using-dyld_insert_libraries/https://blog.timac.org/2012/1218-simple-code-injection-using-dyld_insert_libraries/)
-[Tyilo/insert_dylib](https://github.com/Tyilo/insert_dylib)
-[DYLD_INSERT_LIBRARIES DYLIB injection in macOS / OSX](https://theevilbit.github.io/posts/dyld_insert_libraries_dylib_injection_in_macos_osx_deep_dive/)
-[如何注入mac os app](https://www.jianshu.com/p/6821d8d06c65)
+[Create C Program with Dynamic Library using Command Line in Mac OS X](https://www.zealfortechnology.com/2013/09/create-c-program-dynamic-library-command-line-mac-os-x.html)  
+[Hooking C Functions at Runtime](http://thomasfinch.me/blog/2015/07/24/Hooking-C-Functions-At-Runtime.html)  
+[Simple code injection using DYLD_INSERT_LIBRARIES](https://blog.timac.org/2012/1218-simple-code-injection-using-dyld_insert_libraries/https://blog.timac.org/2012/1218-simple-code-injection-using-dyld_insert_libraries/)  
+[Tyilo/insert_dylib](https://github.com/Tyilo/insert_dylib)  
+[DYLD_INSERT_LIBRARIES DYLIB injection in macOS / OSX](https://theevilbit.github.io/posts/dyld_insert_libraries_dylib_injection_in_macos_osx_deep_dive/)  
+[如何注入mac os app](https://www.jianshu.com/p/6821d8d06c65)  
